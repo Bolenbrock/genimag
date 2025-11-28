@@ -1,0 +1,5 @@
+{
+  "name": "MotionGen AI",
+  "description": "Upload a photo and generate a 5-frame motion sequence using Gemini AI.",
+  "requestFramePermissions": []
+}
